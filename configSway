@@ -26,7 +26,7 @@ include /etc/sway/config-vars.d/*
 # This is commented in Debian, because the Sway wallpaper files are in a separate
 # package `sway-backgrounds`. Installing this package drops a config file to
 # /etc/sway/config.d/
-output * bg /home/null/Pictures/wallpaper/Nerd/fail.jpg fill
+# output * bg /home/null/Pictures/wallpaper/Nerd/fail.jpg fill
 #
 # Example configuration:
 #
@@ -76,7 +76,7 @@ client.focused          #00ff00 #010B12    #00ff00 #ff00ff   #00ff00
 client.focused_inactive #648c49 #010B12    #648c49 #002b36   #648c49
 client.unfocused        #0c8900 #010B12    #6aaf6a #073642   #0c8900
 client.urgent           #dc322f #010B12    #fdf6e3 #dc322f   #dc322f
-#client.background	#39FF13	#010B12    #39FF13 #39FF13   #9CFF00              
+          
 
 
 
